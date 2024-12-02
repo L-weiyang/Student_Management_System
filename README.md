@@ -1,0 +1,2 @@
+# Student_Management_System
+该项目是使用java技术以及其相对的框架，同时前端采用VUE框架进行开发的
